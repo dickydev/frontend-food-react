@@ -1,0 +1,5 @@
+1. Untuk mencari Filternya wajib menggunakan Kode angka 21 dan 22
+
+note: 
+21 : Makanan
+22 : Snack
