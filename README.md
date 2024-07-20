@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# UNTUK MENGGUNAKAN FILTER KATEGORI HARUS MENGGUNAKAN ANGKA 21 DAN 22
+
+NOTE
+21 : MAKANAN
+22 : SNACK
+
+## Overview
+
+Here is an overview of the project:
+
+![Project Overview](preview/backendprev.png)
+![Project Overview](preview/frontendprev.png)
+![Project Overview](preview/frontendprev2.png)
+![Project Overview](preview/frontendprev3.png)
+![Project Overview](preview/frontendprev4.png)
+![Project Overview](preview/frontendprev5.png)
