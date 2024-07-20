@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# UNTUK MENGGUNAKAN FILTER KATEGORI HARUS MENGGUNAKAN ANGKA 21 DAN 22
+## UNTUK MENGGUNAKAN FILTER KATEGORI HARUS MENGGUNAKAN ANGKA 21 DAN 22
 
 NOTE
 21 : MAKANAN
